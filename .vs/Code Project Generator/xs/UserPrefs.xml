@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F2F8F7A9-E40F-B677-524E-226676ADC184}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GenerateCode.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GenerateCode.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e5d345e1-0f85-43a4-9cfc-fae3b01679ad" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
