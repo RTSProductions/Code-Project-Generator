@@ -27,6 +27,8 @@ public class GenerateCode : MonoBehaviour
         
     }
 
+
+    //generating new idea
     public void GenerateIdea()
     {
         int index = Random.Range(0, Project.Length);
